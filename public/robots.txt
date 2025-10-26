@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://secure-image-converter.com/sitemap.xml
