@@ -120,7 +120,7 @@ export function ImageConverter() {
     <div className="min-h-screen bg-background">
       <Header/>
 
-      <div className="container mx-auto px-4 py-12 md:py-20">
+      <main className="container mx-auto px-4 py-12 md:py-20">
         <div className="mx-auto max-w-4xl">
           {/* Hero Section */}
           <Hero/>
@@ -221,7 +221,7 @@ export function ImageConverter() {
           </Card>
           <UniqueSellingPoints/>
         </div>
-      </div>
+      </main>
 
       <Footer/>
     </div>
