@@ -9,8 +9,8 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Secure Image Converter",
-  description: "Convert images between PNG, JPG, and WebP formats instantly. 100% free in your browser. Fast, secure, simple, and completely free.",
+  title: "Secure Image Converter | Fast, Private, and Free Online Tool",
+  description: "Secure Image Converter. Convert PNG, JPG, and WebP instantly in your browser. 100% private, no uploads, and completely free.",
 }
 
 export default function RootLayout({

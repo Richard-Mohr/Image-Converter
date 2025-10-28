@@ -1,9 +1,9 @@
-import { ImageConverter } from "@/components/main_page/image-converter"
+import { FAQ } from "@/components/faq_page/FAQ"
 
 export default function Home() {
   return (
     <main className="min-h-screen">
-      <ImageConverter />
+      <FAQ />
     </main>
   )
 }
